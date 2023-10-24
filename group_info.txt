@@ -1,0 +1,21 @@
+Group Number:
+
+Member-1:
+- Name: Tianyi Zhong
+- Student ID: 1431329
+- Email: ZHONG17@student.unimelb.edu.au
+
+Member-2:
+- Name: Tian Tan
+- Student ID: 1441708
+- Email: tatt1@student.unimelb.edu.au
+
+Member-3:
+- Name: Tianshu Chu
+- Student ID: 1424998
+- Email: chutc1@student.unimelb.edu.au
+
+Member-4:
+- Name: Zecheng Fan
+- Student ID: 1451066
+- Email: zechengf@student.unimelb.edu.au

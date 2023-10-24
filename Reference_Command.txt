@@ -1,0 +1,14 @@
+docker build . -t swen90006-assignment2
+docker run -it swen90006-assignment2
+cd $WORKDIR/topstream
+make all
+
+tmux new
+
+./service 127.0.0.1 9999
+./topstream 127.0.0.1 8888 127.0.0.1 9999
+telnet 127.0.0.1 8888
+
+USER admin
+PASS admin
+DPIN 1111 (look from service window)

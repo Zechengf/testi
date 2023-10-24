@@ -1,0 +1,11 @@
+USER admin
+PASS admin
+DPIN 9999
+REGU user1,1234
+REGU user1,1234
+UPDA user1,FREE
+UPDA user1,BASIC
+UPDA user1,VIP
+UPDA user1,FREE
+LOAD movies.txt
+LOGO

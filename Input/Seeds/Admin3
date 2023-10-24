@@ -1,0 +1,10 @@
+USER admin
+PASS admin
+DPIN 9999
+PLAY 1
+LIST movies.txt
+LOAD movies.txt
+LIST movies.txt
+LOAD non-exist.txt
+LIST non-exist.txt
+LOGO
